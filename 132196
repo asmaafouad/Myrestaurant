@@ -1,0 +1,86 @@
+
+.bxslider{
+box-shadow:0px;
+border:none;
+border:0px;
+margin:auto;
+width:100%;
+
+ }
+ 
+ .bx{
+ auto:true;}
+
+
+ * {
+ 
+ box-sizing:border-box;
+ }
+ .navbar{
+ color:white;
+ background-size:cover;
+ height:800px;
+  }
+ 
+ .container{
+ text-align:center;
+ margin:auto;
+ }
+ .navbar{
+ 
+ font-size:20px;
+ overflow:hidden;
+ 
+ 
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ button {
+ font-size:27px;
+ background-color:black;
+ color:white;
+ border-radius:5px;
+ border:none;
+ text-align:center;
+ margin:auto;
+ 
+ box-shadow: 0 3px #733;
+ }
+ 
+ 
+ 
+ .button:active {
+ 
+ 
+ box-shadow: 0 4px white ;
+ transform: translateY(4px);
+ }
+ li.active,li:hover{
+ color:#184;
+ border-bottom:2px solid #134;
+ }
+  
+  
+
+     
+     
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
